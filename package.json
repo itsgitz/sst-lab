@@ -1,0 +1,12 @@
+{
+  "name": "test-sst",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "sst": "3.9.27"
+  },
+  "devDependencies": {
+    "@types/aws-lambda": "8.10.147"
+  }
+}
